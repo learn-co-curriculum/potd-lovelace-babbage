@@ -3,4 +3,4 @@ tags: potd
 language: english
 ---
 
-# PotD: Ada Lovelace and Charles Babbage
+## Programmers of the Day: Ada Lovelace and Charles Babbage
